@@ -25,7 +25,12 @@ Pueden:
 - click en compartir
 - insertar vínculo copiando link
 - Pegar
-<iframe width="420" height="315" src="//www.youtube.com/embed/H6120SYjfrc" frameborder="0" allowfullscreen></iframe>(de tu Play list que dejaste entrever esta mañana)
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/H6120SYjfrc" frameborder="0" allowfullscreen></iframe>
+
+>Importante: Visto en la Play List del disertante (Álvar)
+
+
 
 
   
