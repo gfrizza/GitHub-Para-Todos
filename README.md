@@ -26,11 +26,10 @@ Pueden:
 - insertar vínculo copiando link
 - Pegar
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/H6120SYjfrc" frameborder="0" allowfullscreen></iframe>
 
 >Importante: Visto en la Play List del disertante (Álvar)
 
-
+<iframe width="420" " height="315src="//www.youtube.com/embed/H6120SYjfrc" frameborder="0" allowfullscreen></iframe>
 
 
   
